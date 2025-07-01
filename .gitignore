@@ -1,0 +1,14 @@
+# PyInstaller output
+dist/
+build/
+
+# Python junk
+__pycache__/
+*.pyc
+
+# PyInstaller config
+*.spec
+
+# IDEs
+.vscode/
+.idea/
